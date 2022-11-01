@@ -59,4 +59,3 @@ public class RunnableCancellablePrimeFactorizer extends RunnablePrimeFactorizer{
         System.out.println("Final result: " + factorizer.getPrimeFactors() + "\n");
     }
 }
-Footer
